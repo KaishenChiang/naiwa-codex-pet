@@ -2,7 +2,7 @@
 
 奶蛙（naiwa）是一只可在 Codex 中安装和使用的像素宠物，包含空闲、骑车、挥手、跳跃、失败、等待、工作和完成等动作。
 
-![奶蛙动作预览](preview.gif)
+![奶蛙动作预览](https://cdn.jsdelivr.net/gh/KaishenChiang/naiwa-codex-pet@main/preview.gif)
 
 ## 快速安装
 
